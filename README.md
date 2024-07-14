@@ -29,7 +29,7 @@ The system is designed to be deployed on a web server, with the frontend and bac
 Future enhancements may include integrating natural language processing (NLP) for better symptom analysis, incorporating real-time patient monitoring data, and enhancing the user interface for improved usability and accessibility.
 
 # Contributors:
-This project is developed by [Your Name] and welcomes contributions from the open-source community to improve functionality and expand capabilities.
+This project is developed by YASHWARDHAN KATKAMWAR and welcomes contributions from the open-source community to improve functionality and expand capabilities.
 
 # License:
 This project is licensed under the Apache License 2.0, allowing for modification and distribution under certain conditions.

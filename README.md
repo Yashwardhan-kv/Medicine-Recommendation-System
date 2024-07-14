@@ -32,6 +32,6 @@ Future enhancements may include integrating natural language processing (NLP) fo
 This project is developed by [Your Name] and welcomes contributions from the open-source community to improve functionality and expand capabilities.
 
 # License:
-This project is licensed under the MIT License, allowing for modification and distribution under certain conditions.
+This project is licensed under the Apache License 2.0, allowing for modification and distribution under certain conditions.
 
 

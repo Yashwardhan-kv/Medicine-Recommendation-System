@@ -27,6 +27,9 @@ The system is designed to be deployed on a web server, with the frontend and bac
 
 # Future Enhancements:
 Future enhancements may include integrating natural language processing (NLP) for better symptom analysis, incorporating real-time patient monitoring data, and enhancing the user interface for improved usability and accessibility.
+# Snapshot
+![Snap_1](https://github.com/user-attachments/assets/106e2c50-bae1-4f54-910c-40fecc4df6b0)
+![Snap_2](https://github.com/user-attachments/assets/e73a60ae-cfb4-4994-a1e6-64a037acda28)
 
 # Contributors:
 This project is developed by YASHWARDHAN KATKAMWAR and welcomes contributions from the open-source community to improve functionality and expand capabilities.

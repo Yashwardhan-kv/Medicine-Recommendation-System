@@ -1,0 +1,32 @@
+Gender,Symptoms,Medical_History,Allergies,Medication
+Male,"Cough, Fever",Asthma,Penicillin,Med1
+Female,"Headache, Nausea",Hypertension,None,Med2
+Male,"Back Pain",Diabetes,None,Med3
+Female,Dizziness,None,Peanuts,Med4
+Female,"Cough, Sore Throat",Asthma,None,Med1
+Male,"Fever, Chills",None,None,Med5
+Female,"Nausea, Vomiting",None,None,Med6
+Male,"Chest Pain",Heart Disease,None,Med7
+Female,"Fatigue, Shortness of Breath",Asthma,Penicillin,Med8
+Male,"Cough, Sore Throat",Bronchitis,None,Med9
+Female,"Abdominal Pain",Ulcer,None,Med10
+Male,"Headache, Blurred Vision",Hypertension,None,Med11
+Female,"Joint Pain, Fatigue",Arthritis,None,Med12
+Male,"Cough, Shortness of Breath",Asthma,Peanuts,Med13
+Female,"Fever, Rash",None,Penicillin,Med14
+Male,"Nausea, Dizziness",Heart Disease,None,Med15
+Female,"Headache, Dizziness",None,Peanuts,Med16
+Male,"Fever, Sore Throat",Bronchitis,None,Med17
+Female,"Nausea, Abdominal Pain",None,Penicillin,Med18
+Male,"Chest Pain, Dizziness",Hypertension,None,Med19
+Female,"Fatigue, Back Pain",Diabetes,None,Med20
+Male,"Cough, Fever",Bronchitis,None,Med21
+Female,"Nausea, Headache",None,Peanuts,Med22
+Male,"Dizziness, Nausea",Hypertension,None,Med23
+Female,"Fever, Cough",Asthma,None,Med24
+Male,"Shortness of Breath, Chest Pain",Heart Disease,Penicillin,Med25
+Female,"Headache, Fever",None,None,Med26
+Male,"Cough, Fatigue",Bronchitis,None,Med27
+Female,"Sore Throat, Nausea",None,Peanuts,Med28
+Male,"Back Pain, Dizziness",Diabetes,None,Med29
+Female,"Headache, Sore Throat",Asthma,None,Med30

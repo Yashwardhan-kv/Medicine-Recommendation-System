@@ -33,6 +33,11 @@ Future enhancements may include integrating natural language processing (NLP) fo
 
 # Contributors:
 This project is developed by YASHWARDHAN KATKAMWAR and welcomes contributions from the open-source community to improve functionality and expand capabilities.
+# Reference Papers
+1. Abhishek, Amit Kumar Bindal, Dharminder Yadav; Medicine recommender system: A machine learning approach. AIP Conf. Proc. 9 December 2022; 2576 (1): 050014. https://doi.org/10.1063/5.0105723
+   
+2. S. Garg, "Drug Recommendation System based on Sentiment Analysis of Drug Reviews using Machine Learning," 2021 11th International Conference on Cloud Computing, Data Science & Engineering (Confluence), Noida, India, 2021, pp. 175-181, doi: 10.1109/Confluence51648.2021.9377188. keywords: {Drugs;Sentiment analysis;Stochastic processes;Static VAr compensators;Manuals;Recommender systems;Random forests;Drug;Recommender System;Machine Learning;NLP;Smote;Bow;TF-IDF;Word2Vec;Sentiment analysis},
+
 
 # License:
 This project is licensed under the Apache License 2.0, allowing for modification and distribution under certain conditions.
